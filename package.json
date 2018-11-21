@@ -1,0 +1,16 @@
+{
+  "name": "@agent.smith/utils",
+  "version": "1.0.0-alpha",
+  "description": "Agent Smith Monitoring Utilities",
+  "main": "jsrc/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.9",
+    "mocha": "^5.2.0"
+  }
+}
